@@ -1,4 +1,4 @@
-[200~* remove trim/casing
+* remove trim/casing
 
 * check/measure rough opening - 1/2" gap for leveling
 
