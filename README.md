@@ -28,7 +28,7 @@
 * check inside window face to drywall
     * should be flush, or less than flush
 
-* flash sill corners with small pieces [3:00 mark here](https://www.youtube.com/watch?v=TWma8ESrhlY?t=181)
+* flash sill corners with small pieces [3:00 mark here](https://youtu.be/TWma8ESrhlY?t=179)
 
 * flash entire sill - 12" or so up the sides
     * cover seams of corners
